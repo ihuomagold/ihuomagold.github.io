@@ -47,7 +47,7 @@ main div {
   grid-area: e;
 }
 
- div a{
+ nav a{
     text-decoration: none;
     color: rgb(38, 38, 128);
     font-size: 30px;
